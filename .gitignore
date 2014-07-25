@@ -1,0 +1,5 @@
+*.pyc
+example_conf.py
+trash/*
+lib/*.pyc
+lib/addwalk/*.pyc
