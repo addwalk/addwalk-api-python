@@ -1,5 +1,5 @@
 # please create example_conf.py if you want to run example.py
-api_host_url = 'http://api.addwalk.com'
+api_host_url = 'http://XXXXXXXXXXXX.com'
 api_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 api_secret = 'YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY'
 widget_token = "ZZZZZZZZZZZZZZZZZZZZZZZ"
